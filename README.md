@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @damodar-reddy
-- 👀 Working as Associate Software Engineer in Optum
-- 🏢 Working on building web applications using React for healthcare industry
+- 🏢 Associate Software Engineer in Optum
+- 💻 Building web applications using React for healthcare industry
 - 📫 Reach me on simunidamodarreddy@gmail.com
